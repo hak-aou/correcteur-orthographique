@@ -10,8 +10,8 @@
 </p>
 
 
-Le projet consiste à récupérer un texte en entrée et un dictionnaire. On doit alors proposer des propositions de correction pour chaque mots mal orthographié à l'aide la distance de levenstein.
-Il y a 3 correcteur dans ce projet et une application finale. L'application permet à l'utilisateur d'écrire son texte directementsur le terminal et de voir ses mots mal écrits. En cliquand il obitent une correction pour le mot.
+Le projet consiste à récupérer un texte en entrée et un dictionnaire. On doit alors proposer des propositions de correction pour chaque mot mal orthographié à l'aide la distance de levenstein. Il y a 3 correcteurs dans ce projet et une application finale. L'application permet à l'utilisateur d'écrire son texte directement sur le terminal et de voir ses mots mal écrits. En cliquant, il obtient une correction pour le mot.
+
 
 ## Lancer le projet 
     sh application.sh
@@ -19,4 +19,4 @@ Il y a 3 correcteur dans ce projet et une application finale. L'application perm
     sh correcteur2.sh
     sh correcteur3.sh
 #### Mode graphique
-    -a : Active la visualisation de l'arbre ternaire de recherce.
+    -a : active la visualisation de l'arbre ternaire de recherche.
